@@ -76,11 +76,19 @@ h2 {
     line-height: 1;
     margin: 0 0px 0 0;
 }
-h3 {
+body h3 {
     display: inline;
     font-size: 18px;
     font-weight: bold;
     line-height: 0;
+    margin: 0 0px 0 0;
+}
+h4 {
+	align: center
+    display: inline;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 1;
     margin: 0 0px 0 0;
 }
 header li {
